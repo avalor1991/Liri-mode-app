@@ -1,2 +1,2 @@
-# Liri-mode-app
-Liri-mode-app
+# Liri-node-app
+Liri-node-app
